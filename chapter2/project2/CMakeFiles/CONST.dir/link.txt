@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CONST.dir/src/const.cpp.o CMakeFiles/CONST.dir/src/paras.cpp.o -o CONST 
